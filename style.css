@@ -2,7 +2,15 @@
     padding: 1rem;
     
 }
-.seasonal-link {
-    text-decoration: none;
+.dates {
+    margin-bottom:0.3rem ;
 }
 
+.season-title {
+    color: blue;
+}
+
+.job-title {
+    font-weight: 450;
+    font-style: italic;
+}
